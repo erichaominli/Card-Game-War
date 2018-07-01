@@ -4,7 +4,7 @@
  face down. Anyone may deal first. Each player places his stack of cards face down,
  in front of him.
 
-# The Play:
+## The Play:
 
  Each player turns up a card at the same time and the player with the higher card
  takes both cards and puts them, face down, on the bottom of his stack.
